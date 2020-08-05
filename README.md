@@ -1,6 +1,7 @@
 Hi there! 
 
 I am a self-taught software developer, programming enthusiast.
+
 Currently working on some projects for team based real-time applications.
 
 ### Connect
