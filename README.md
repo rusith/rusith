@@ -1,3 +1,6 @@
+Hi there! 
+I am a self-taught software developer, programming enthusiast. Currently working on some projects for team based real-time applications.
+
 ### Connect
 
 [<img align="left" alt="rusith.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -15,7 +18,6 @@
 - [Creating a Re-Usable Presto Worker Image in EC2](https://rusith.me/2019/07/25/re-usable-presto-worker-image/)
 - [React Form Validation Using Custom Hooks](https://rusith.me/2019/06/24/react-form-validation-using-custom-hooks/)
 <!-- BLOG-POST-LIST:END -->
-
 
 [website]: https://rusith.me
 [twitter]: https://twitter.com/rusith_
