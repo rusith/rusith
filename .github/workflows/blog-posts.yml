@@ -1,0 +1,15 @@
+name: Latest blog posts
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Updates the README file with the latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://rusith.me/atom.xml"
