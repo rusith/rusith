@@ -14,6 +14,7 @@ Currently working on some projects for team based real-time applications.
 
 ###  Latest  Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying an app on AWS ECS with CDK](https://rusith.me/blog/deploy-app-on-aws-ecs-with-cdk-auto-scaling-and-load-balancing)
 - [Testing Redux Connected React Components Using Jest](https://rusith.me/blog/testing-react-redux-connected-components-using-jest)
 - [Running a Nuget Feed on S3 with Automated Deployments](https://rusith.me/2019/11/03/nuget-feed-on-s3/)
 - [Deploying a Website on S3 With SSL, Continuous Integration](https://rusith.me/2019/08/14/building-a-website-on-s3/)
